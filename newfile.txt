@@ -1,2 +1,6 @@
 This is a new file which is added on July 21st 2026
+<<<<<<< HEAD
 
+=======
+This line is changed in main
+>>>>>>> 88b39b5 (new line added)
